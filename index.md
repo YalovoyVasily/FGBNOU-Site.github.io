@@ -2,4 +2,6 @@
 
 ![Здание](https://obruchev.mos.ru/%D1%86%D0%B5%D0%BD%D1%82%D1%808%D0%B3%D1%88%D0%BB.jpg)
 
+![Программа](https://sun9-38.userapi.com/impg/xYmBV9q8ZIJjm8oOThCc8iEPdbYHFiUAyFGpTg/gGfs1YhpGVk.jpg)
+
 - Последняя версия приложения: 0.3.2
